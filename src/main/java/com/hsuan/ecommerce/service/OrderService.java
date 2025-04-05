@@ -17,5 +17,6 @@ public class OrderService {
     }
 
     public Order updateOrderStatusById(Integer orderId, Integer statusVal) {
+        return null;
     }
 }
